@@ -1,0 +1,131 @@
+/* h1{
+    background-color:pink;
+    color: blue;
+}
+h2{
+    color: red;
+    background-color: gray;
+}
+
+#ku {
+    border: double;
+    margin: 5px;
+    padding: 10px;
+}
+a:visited { color: pink; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+[style *="b"]{
+    color: aqua;
+} */
+/* #s{
+    text-align: right;
+    margin-left:1000px;
+} */
+/* div{ */
+    /* position: relative;
+    left: 200px;
+    top: 200px; */
+
+    /* position: fixed;
+    right: 0px; 
+    bottom: 0px; 
+    width: 200px;
+    height: 200px; */
+    
+    /* position: relative; 
+    width: 400px; 
+    height: 200px; */
+    
+    /* position: relative; 
+    right: 0px; 
+    bottom: 0px; 
+    width: 200px; 
+    height: 200px; */
+
+    /* border: 3px solid #73AD21;
+}
+div { clear: right; }
+div.clearfix { overflow: auto; } */
+/* img { float:inherit; } */
+
+/* ul{
+    list-style-type:none ;
+    overflow: hidden;
+    margin: 0;
+    margin-left:0; 
+    padding: 10px;
+    background-color: #333333
+}
+li { float:left ; }
+
+li a { display: block; 
+    color: white; 
+    text-align: center;  
+    padding: 16px; 
+    text-decoration: none; 
+}
+li a:hover { 
+    background-color: #111111; 
+} */
+/* 
+body {
+     margin: 0; } 
+ul { 
+    list-style-type: none;
+     margin: 0; 
+    padding: 0;
+     width: 25%; 
+    background-color: #f1f1f1; 
+    position: fixed; 
+    height: 100%; 
+    overflow: auto; 
+} 
+li a { 
+    display: block; 
+    color: #000; 
+    padding: 8px 16px; 
+    text-decoration: none; 
+} 
+li a:hover:not(.active) { 
+    background-color: #555; 
+    color: white; 
+} */
+/* body { 
+    font-size: 28px; 
+} 
+ul {
+     list-style-type: none;
+     margin: 0; 
+    padding: 0; 
+    overflow: hidden;
+     background-color: #333; 
+    position: -webkit-sticky; /* Safari */ 
+    /* position: sticky; 
+    top: 0; } 
+li { 
+    float: left; } 
+li a { 
+    display: block; 
+    color: white; 
+    text-align: center; 
+    padding: 14px 16px; 
+    text-decoration: none; 
+} 
+li a:hover { 
+    background-color: #111; 
+} */ 
+#ul1 ::marker{
+    color: red;
+}
+ol ::marker{
+    color: yellow;
+}
+ul #li1::marker{
+    color: green;
+}
+ol .commonLi::marker{
+    color: blue;
+}
